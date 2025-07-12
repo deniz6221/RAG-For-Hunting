@@ -42,7 +42,7 @@ Run the main RAG notebook (`RAG.ipynb`) to:
 
 ## Web Scraping Approach
 
-The project includes a non ordinary web scraping component (`document_scraper.py`) that uses mouse and keyboard automation rather than traditional HTTP scraping libraries. This approach was necessary due to:
+The project includes a unusual web scraping component (`document_scraper.py`) that uses mouse and keyboard automation rather than traditional HTTP scraping libraries. This approach was necessary due to:
 - Cloudflare bot protection on target websites
 - Advanced anti-scraping measures that block automated requests
 - The need to simulate genuine user interactions for content access
